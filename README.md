@@ -1,4 +1,4 @@
-# 👾 Dev-Alastor
+# 👾 Zeronix
 
 ```
 > Cyber Security Learner | Programmer | Linux User
