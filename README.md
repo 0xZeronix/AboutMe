@@ -7,8 +7,7 @@
 ## 🧠 About Me
 
 * 🎓 High school student
-* 🔐 Interested in Cyber Security & Programming
-* ⚡ Always learning new things in tech
+* 🔐 Interested in Cyber Security & Tools Programming
 
 ## 🛠️ Skills
 
