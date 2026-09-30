@@ -1,7 +1,7 @@
 # 👾 Zeronix
 
 ```
-> Cyber Security Learner `🏢 Active Directory • ☁️ Cloud Security | Linux User
+> Cyber Security Learner | 🏢 Active Directory • ☁️ Cloud Security | Linux User
 ```
 
 ## 🧠 About Me
