@@ -26,6 +26,7 @@ Editor   : VSCodium / VSCode
 
 ## 📚 Learning Sources
 
+* HackTheBox
 * Bro Code
 * NetworkChuck
 * S7ee7
